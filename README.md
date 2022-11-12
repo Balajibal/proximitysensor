@@ -159,4 +159,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## RESULT:
-Thus, a Simple Android Application to display the avaliable sensor in android mobile devices using Sensor Manager in Android Studio is developed and executed successfully.
+Thus, a Simple Android Application to display the process of proximity sensor using sensor manager in Android Studio is developed and executed successfully.
