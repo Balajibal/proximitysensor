@@ -1,4 +1,8 @@
-# Ex.No: 5 Develop a simple application for proximity sensor using Sensor Manager in android studio.
+### EX NO : 05
+### DATE  : 09.11.2022
+
+# <p align="center"> Develop a simple application for proximity sensor using Sensor Manager in android studio. </p>
+
 
 
 ## AIM:
