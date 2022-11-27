@@ -39,7 +39,7 @@ Registration Number : 212220230006
 */
 ```
 
-#### <br><br><br>MainActivity.java
+#### <br><br><br><br>MainActivity.java
 ```
 package com.example.proximitysensor;
 
